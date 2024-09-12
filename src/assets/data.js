@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "where is capital of Karnatka",
+    option1: "Delhi",
+    option2: "Bengaluru",
+    option3: "Kolkata",
+    option4: "Patna",
+    ans: 2,
+  },
+  {
+    question: "where is capital of India",
+    option1: "Delhi",
+    option2: "Bengaluru",
+    option3: "Kolkata",
+    option4: "Patna",
+    ans: 1,
+  },
+  {
+    question: "where is capital of Bihar",
+    option1: "Delhi",
+    option2: "Bengaluru",
+    option3: "Kolkata",
+    option4: "Patna",
+    ans: 4,
+  },
+  {
+    question: "where is capital of West Bengal",
+    option1: "Delhi",
+    option2: "Bengaluru",
+    option3: "Kolkata",
+    option4: "Patna",
+    ans: 3,
+  },
+  {
+    question: "where is capital of Jharkhand",
+    option1: "Ranchi",
+    option2: "Bengaluru",
+    option3: "Kolkata",
+    option4: "Patna",
+    ans: 1,
+  },
+];
